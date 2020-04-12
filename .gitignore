@@ -1,2 +1,4 @@
-#jupyter notebook checkpoints
-.ipynb_checkpoints/DataScienceProject-checkpoint.ipynb
+#jupyter notebook checkpoints, .git files and .gitignore files
+/Users/sasank/Desktop/Python/Project/.ipynb_checkpoints
+/Users/sasank/Desktop/Python/Project/ .gitignore
+/Users/sasank/Desktop/Python/Project/ .git
